@@ -34,7 +34,7 @@ Implementing a Bayes optimal classifier for a 3-class problem using multivariate
 pip install numpy scipy matplotlib
 
 # Run Assignment 1
-python Assignment_01/assignment1_extended.py
+python Assignment1.py
 ```
 
 ## 🎓 Course Info
